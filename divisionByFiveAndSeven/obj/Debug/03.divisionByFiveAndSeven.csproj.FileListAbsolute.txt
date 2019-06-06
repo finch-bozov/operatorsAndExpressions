@@ -1,0 +1,7 @@
+C:\Users\peter.bozov\source\repos\divisionByFiveAndSeven\bin\Debug\divisionByFiveAndSeven.exe.config
+C:\Users\peter.bozov\source\repos\divisionByFiveAndSeven\bin\Debug\divisionByFiveAndSeven.exe
+C:\Users\peter.bozov\source\repos\divisionByFiveAndSeven\bin\Debug\divisionByFiveAndSeven.pdb
+C:\Users\peter.bozov\source\repos\divisionByFiveAndSeven\obj\Debug\03.divisionByFiveAndSeven.csprojAssemblyReference.cache
+C:\Users\peter.bozov\source\repos\divisionByFiveAndSeven\obj\Debug\03.divisionByFiveAndSeven.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\divisionByFiveAndSeven\obj\Debug\divisionByFiveAndSeven.exe
+C:\Users\peter.bozov\source\repos\divisionByFiveAndSeven\obj\Debug\divisionByFiveAndSeven.pdb

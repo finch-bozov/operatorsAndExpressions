@@ -1,0 +1,7 @@
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\obj\Debug\01.oddOrEvenIntegers.csprojAssemblyReference.cache
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\obj\Debug\01.oddOrEvenIntegers.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\bin\Debug\operatorsAndExpressions.exe.config
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\bin\Debug\operatorsAndExpressions.exe
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\bin\Debug\operatorsAndExpressions.pdb
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\obj\Debug\operatorsAndExpressions.exe
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\obj\Debug\operatorsAndExpressions.pdb

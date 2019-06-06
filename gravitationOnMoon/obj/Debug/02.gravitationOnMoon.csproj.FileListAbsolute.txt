@@ -1,0 +1,6 @@
+C:\Users\peter.bozov\source\repos\gravitationOnMoon\bin\Debug\gravitationOnMoon.exe.config
+C:\Users\peter.bozov\source\repos\gravitationOnMoon\bin\Debug\gravitationOnMoon.exe
+C:\Users\peter.bozov\source\repos\gravitationOnMoon\bin\Debug\gravitationOnMoon.pdb
+C:\Users\peter.bozov\source\repos\gravitationOnMoon\obj\Debug\02.gravitationOnMoon.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\gravitationOnMoon\obj\Debug\gravitationOnMoon.exe
+C:\Users\peter.bozov\source\repos\gravitationOnMoon\obj\Debug\gravitationOnMoon.pdb

@@ -1,0 +1,7 @@
+C:\Users\peter.bozov\source\repos\calculatingRectangles\bin\Debug\calculatingRectangles.exe.config
+C:\Users\peter.bozov\source\repos\calculatingRectangles\bin\Debug\calculatingRectangles.exe
+C:\Users\peter.bozov\source\repos\calculatingRectangles\bin\Debug\calculatingRectangles.pdb
+C:\Users\peter.bozov\source\repos\calculatingRectangles\obj\Debug\04.calculatingRectangles.csprojAssemblyReference.cache
+C:\Users\peter.bozov\source\repos\calculatingRectangles\obj\Debug\04.calculatingRectangles.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\calculatingRectangles\obj\Debug\calculatingRectangles.exe
+C:\Users\peter.bozov\source\repos\calculatingRectangles\obj\Debug\calculatingRectangles.pdb
