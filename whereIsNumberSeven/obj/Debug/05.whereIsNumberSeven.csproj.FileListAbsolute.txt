@@ -1,0 +1,7 @@
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\whereIsNumberSeven\obj\Debug\05.whereIsNumberSeven.csprojAssemblyReference.cache
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\whereIsNumberSeven\obj\Debug\05.whereIsNumberSeven.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\whereIsNumberSeven\bin\Debug\whereIsNumberSeven.exe.config
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\whereIsNumberSeven\bin\Debug\whereIsNumberSeven.exe
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\whereIsNumberSeven\bin\Debug\whereIsNumberSeven.pdb
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\whereIsNumberSeven\obj\Debug\whereIsNumberSeven.exe
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\whereIsNumberSeven\obj\Debug\whereIsNumberSeven.pdb

@@ -1,0 +1,7 @@
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\primeNumberCheck\bin\Debug\primeNumberCheck.exe.config
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\primeNumberCheck\bin\Debug\primeNumberCheck.exe
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\primeNumberCheck\bin\Debug\primeNumberCheck.pdb
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\primeNumberCheck\obj\Debug\08.primeNumberCheck.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\primeNumberCheck\obj\Debug\primeNumberCheck.exe
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\primeNumberCheck\obj\Debug\primeNumberCheck.pdb
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\primeNumberCheck\obj\Debug\08.primeNumberCheck.csprojAssemblyReference.cache

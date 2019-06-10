@@ -1,0 +1,6 @@
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\fourDigitNumber\bin\Debug\fourDigitNumber.exe.config
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\fourDigitNumber\bin\Debug\fourDigitNumber.exe
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\fourDigitNumber\bin\Debug\fourDigitNumber.pdb
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\fourDigitNumber\obj\Debug\06.fourDigitNumber.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\fourDigitNumber\obj\Debug\fourDigitNumber.exe
+C:\Users\peter.bozov\source\repos\operatorsAndExpressions\fourDigitNumber\obj\Debug\fourDigitNumber.pdb
